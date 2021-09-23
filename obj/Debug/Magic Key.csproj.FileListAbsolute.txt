@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Magic Key\Magic Key\obj\Debug\Magic_Key.MagicControl.MagicTextBox.resources
+C:\Users\PC\source\repos\Magic Key\Magic Key\obj\Debug\Magic Key.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Magic Key\Magic Key\obj\Debug\Magic Key.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Magic Key\Magic Key\bin\Debug\Magic.ModernUI.dll.config
+C:\Users\PC\source\repos\Magic Key\Magic Key\bin\Debug\Magic.ModernUI.dll
+C:\Users\PC\source\repos\Magic Key\Magic Key\bin\Debug\Magic.ModernUI.pdb
+C:\Users\PC\source\repos\Magic Key\Magic Key\obj\Debug\Magic Key.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Magic Key\Magic Key\obj\Debug\MagicUI.Properties.Resources.resources
+C:\Users\PC\source\repos\Magic Key\Magic Key\obj\Debug\Magic.ModernUI.dll
+C:\Users\PC\source\repos\Magic Key\Magic Key\obj\Debug\Magic.ModernUI.pdb
